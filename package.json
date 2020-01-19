@@ -1,0 +1,27 @@
+{
+  "name": "proxy-poc",
+  "version": "1.0.0",
+  "description": "proxy poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Xavier Garcia Buils <xgbuils@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.20.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgbuils/proxy-poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xgbuils/proxy-poc/issues"
+  },
+  "homepage": "https://github.com/xgbuils/proxy-poc#readme"
+}
